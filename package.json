@@ -1,0 +1,27 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Frameworks mandatory - chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terkeljc/frontendMandatory.git"
+  },
+  "author": "Terkel Jungløw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terkeljc/frontendMandatory/issues"
+  },
+  "homepage": "https://github.com/Terkeljc/frontendMandatory#readme",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.4",
+    "nodemon": "^1.11.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
